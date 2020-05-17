@@ -11,3 +11,9 @@ def sum(x,y):
 def minus(x,y):
     result = x-y
     return result   
+
+# 3 calculation function
+
+def multiplic(x,y):
+    result = x*y
+    return result    
