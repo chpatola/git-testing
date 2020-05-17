@@ -2,6 +2,6 @@
 
 #1 calculation function
 
-def: calculate(x,y):
+def calculate_sum(x,y):
     result = x+y
     return result
