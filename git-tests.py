@@ -2,6 +2,12 @@
 
 #1 calculation function
 
-def: calculate(x,y):
+def sum(x,y):
     result = x+y
     return result
+
+#2 calculation function
+
+def minus(x,y):
+    result = x-y
+    return result   
